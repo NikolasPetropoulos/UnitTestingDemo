@@ -47,7 +47,15 @@ namespace DemoLibrary
 
             foreach (PersonModel user in people)
             {
-                output.Add($"{ user.FirstName },{ user.LastName }");
+
+                if (user!=null)
+                {
+                    output.Add($"{ user.FirstName },{ user.LastName }"); 
+                }
+                else
+                {
+                    throw new NullReferenceException("Null object");
+                }
             }
 
             return output;

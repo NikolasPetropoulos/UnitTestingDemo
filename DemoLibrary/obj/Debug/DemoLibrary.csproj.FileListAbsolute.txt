@@ -4,3 +4,9 @@ C:\Projects\UdemyDemo\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLib
 C:\Projects\UdemyDemo\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
 C:\Projects\UdemyDemo\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.dll
 C:\Projects\UdemyDemo\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Projects\UdemyDemo\UnitTestingDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Projects\UdemyDemo\UnitTestingDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Projects\UdemyDemo\UnitTestingDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Projects\UdemyDemo\UnitTestingDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\UdemyDemo\UnitTestingDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Projects\UdemyDemo\UnitTestingDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
